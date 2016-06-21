@@ -1,4 +1,4 @@
-# [Color Tinter and Shader](http://michaeledelstone.com/tints-and-shades/)
+# [Color Tinter and Shader](https://txstate-etc.github.io/tints-and-shades/)
 *from the [Texas State University](http://txstate.edu) web team*
 
 ## Purpose
